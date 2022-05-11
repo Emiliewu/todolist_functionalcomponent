@@ -1,0 +1,17 @@
+.todo {
+  display: flex;
+  font-size: 1.5rem;
+  align-items: baseline;
+  margin-bottom: 12px;
+}
+.todo input {
+  transform: scale(1.5);
+  outline: none;
+  margin: 0 20px;
+}
+.todo span {
+  color: orangered;
+  cursor: pointer;
+  transform: scale(1.2);
+  margin-left: auto;
+}
